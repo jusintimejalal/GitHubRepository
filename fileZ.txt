@@ -1,0 +1,1 @@
+this is added for checking whether specified code owner in CODEOWNERS file will automatically be added as a reviewer or not?
